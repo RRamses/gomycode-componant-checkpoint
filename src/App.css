@@ -1,0 +1,29 @@
+.App {
+border: 1px;
+}
+
+.bigbox{
+  margin: 100px;
+  margin-left: 200px;
+  height: 200px;
+  width: 800px;
+  border: 1px solid black;
+  display: flex;
+}
+
+.box1{
+  
+width: 70%;
+}
+
+.box2{
+  width: 30%;
+  border: 1px solid black;
+}
+
+.profile{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+
+}
